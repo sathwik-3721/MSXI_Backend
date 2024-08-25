@@ -1,0 +1,1361 @@
+{
+    "meta": {
+        "info": {
+            "PDFFormatVersion": "1.4",
+            "Language": null,
+            "EncryptFilterName": null,
+            "IsLinearized": false,
+            "IsAcroFormPresent": false,
+            "IsXFAPresent": false,
+            "IsCollectionPresent": false,
+            "IsSignaturesPresent": false,
+            "Title": "Warranty0",
+            "Producer": "Skia/PDF m128 Google Docs Renderer"
+        },
+        "metadata": null
+    },
+    "pages": [
+        {
+            "pageInfo": {
+                "num": 1,
+                "scale": 1,
+                "rotation": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "width": 612,
+                "height": 792
+            },
+            "links": [],
+            "content": [
+                {
+                    "x": 72,
+                    "y": 105.0078135,
+                    "str": "Vehicle Component Warranty Claim",
+                    "dir": "ltr",
+                    "width": 252.7850565265038,
+                    "height": 16.0000005,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 127.47607389249993,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 127.47607389249993,
+                    "str": "Claim Number: WC-20230317-5678",
+                    "dir": "ltr",
+                    "width": 175.3479848040381,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 142.0223388925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 142.0223388925,
+                    "str": "Date Received: March 17, 2023",
+                    "dir": "ltr",
+                    "width": 154.59271842903803,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 156.56860289249994,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 156.56860289249994,
+                    "str": "Claim Status: Rejected",
+                    "dir": "ltr",
+                    "width": 111.80476790403809,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 171.1148678925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 171.1148678925,
+                    "str": "Claimant Information:",
+                    "dir": "ltr",
+                    "width": 104.47088989945797,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 185.66113089249995,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 185.66113089249995,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 185.66113089249995,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 185.66113089249995,
+                    "str": "Name: John Doe",
+                    "dir": "ltr",
+                    "width": 82.48868945403802,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 200.2074008925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 200.2074008925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 200.2074008925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 200.2074008925,
+                    "str": "Address: 123 Main Street, Anytown, CA 54321",
+                    "dir": "ltr",
+                    "width": 227.303244279038,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 214.75366089249997,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 214.75366089249997,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 214.75366089249997,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 214.75366089249997,
+                    "str": "Phone: (555) 123-4567",
+                    "dir": "ltr",
+                    "width": 113.06607807903805,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 229.29993089250002,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 229.29993089250002,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 229.29993089250002,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 229.29993089250002,
+                    "str": "Email: johndoe@email.com",
+                    "dir": "ltr",
+                    "width": 133.96842619325207,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 243.84619089249998,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 243.84619089249998,
+                    "str": "Vehicle Information:",
+                    "dir": "ltr",
+                    "width": 96.54298414945814,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 258.39245089249994,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 258.39245089249994,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 258.39245089249994,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 258.39245089249994,
+                    "str": "Year: 2020",
+                    "dir": "ltr",
+                    "width": 52.77471192903806,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 272.9387208925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 272.9387208925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 272.9387208925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 272.9387208925,
+                    "str": "Make: Toyota",
+                    "dir": "ltr",
+                    "width": 65.37693432903806,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 287.4849808925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 287.4849808925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 287.4849808925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 287.4849808925,
+                    "str": "Model: Camry",
+                    "dir": "ltr",
+                    "width": 68.41524540000006,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 302.0312508925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 302.0312508925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 302.0312508925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 302.0312508925,
+                    "str": "VIN: 1T1ABC2E3FG4H56789",
+                    "dir": "ltr",
+                    "width": 145.42003670403813,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 316.5775108925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 316.5775108925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 316.5775108925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 316.5775108925,
+                    "str": "Mileage at Failure: 45,000",
+                    "dir": "ltr",
+                    "width": 127.10151605403804,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 331.1237808925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 331.1237808925,
+                    "str": "Component Information:",
+                    "dir": "ltr",
+                    "width": 117.92665864945796,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 345.6700408925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 345.6700408925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 345.6700408925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 345.6700408925,
+                    "str": "Component: Alternator",
+                    "dir": "ltr",
+                    "width": 110.59538666825193,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 360.2163108925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 360.2163108925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 360.2163108925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 360.2163108925,
+                    "str": "Part Number: 27060-0H010",
+                    "dir": "ltr",
+                    "width": 135.0397190040381,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 374.76257089250004,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 374.76257089250004,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 374.76257089250004,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 374.76257089250004,
+                    "str": "Date of Purchase: August 10, 2019",
+                    "dir": "ltr",
+                    "width": 171.10783092903813,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 389.30884089250003,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 389.30884089250003,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 389.30884089250003,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 389.30884089250003,
+                    "str": "Original Invoice Number: 123456",
+                    "dir": "ltr",
+                    "width": 160.7006776290381,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 403.85510089250005,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 403.85510089250005,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 403.85510089250005,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 403.85510089250005,
+                    "str": "Selling Dealer: Anytown Toyota",
+                    "dir": "ltr",
+                    "width": 152.14436457903815,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 418.40137089250004,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 418.40137089250004,
+                    "str": "Description of Failure:",
+                    "dir": "ltr",
+                    "width": 106.91300187445796,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 432.9476308925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 432.9476308925,
+                    "str": "The alternator warning light illuminated on the vehicle dashboard while driving. The vehicle",
+                    "dir": "ltr",
+                    "width": 440.5505965290379,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 447.49390089250005,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 447.49390089250005,
+                    "str": "experienced a loss of electrical power and stalled. The vehicle was towed to a certified",
+                    "dir": "ltr",
+                    "width": 419.7631406790381,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 462.0401608925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 462.0401608925,
+                    "str": "mechanic who diagnosed the alternator as faulty and requiring replacement.",
+                    "dir": "ltr",
+                    "width": 369.68424994945804,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 476.58642089250003,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 476.58642089250003,
+                    "str": "Repair Information:",
+                    "dir": "ltr",
+                    "width": 93.47870239945794,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 491.1326908925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 491.1326908925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 491.1326908925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 491.1326908925,
+                    "str": "Date of Repair: March 15, 2023",
+                    "dir": "ltr",
+                    "width": 153.36897342903796,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 505.67895089250004,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 505.67895089250004,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 505.67895089250004,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 505.67895089250004,
+                    "str": "Repairing Facility: Bob's Auto Repair",
+                    "dir": "ltr",
+                    "width": 178.66858624325187,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 520.2252208925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 520.2252208925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 520.2252208925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 520.2252208925,
+                    "str": "Address: 456 Oak Avenue, Anytown, CA 54321",
+                    "dir": "ltr",
+                    "width": 231.39297177903802,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 534.7714808925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 534.7714808925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 534.7714808925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 534.7714808925,
+                    "str": "Phone: (555) 987-6543",
+                    "dir": "ltr",
+                    "width": 113.06607807903805,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 549.3177508924999,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 549.3177508924999,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 549.3177508924999,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 549.3177508924999,
+                    "str": "Repair Invoice Number: 789012",
+                    "dir": "ltr",
+                    "width": 155.20458762903817,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 563.8640108925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 563.8640108925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 563.8640108925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 563.8640108925,
+                    "str": "Total Repair Cost: $650.00 (including parts and labor)",
+                    "dir": "ltr",
+                    "width": 260.29865486825213,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 578.4102808924999,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 578.4102808924999,
+                    "str": "Supporting Documentation:",
+                    "dir": "ltr",
+                    "width": 133.2126691994581,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 592.9565408925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 592.9565408925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 592.9565408925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 592.9565408925,
+                    "str": "Copy of original component purchase invoice",
+                    "dir": "ltr",
+                    "width": 219.3650515290381,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 607.5028108925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 607.5028108925,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 607.5028108925,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 607.5028108925,
+                    "str": "Copy of repair invoice",
+                    "dir": "ltr",
+                    "width": 106.31404152903818,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 622.0490708924999,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 90,
+                    "y": 622.0490708924999,
+                    "str": "●",
+                    "dir": "ltr",
+                    "width": 6.644043161000978,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 96.64404316100098,
+                    "y": 622.0490708924999,
+                    "str": " ",
+                    "dir": "ltr",
+                    "width": 15.141275785332027,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 108,
+                    "y": 622.0490708924999,
+                    "str": "Photos of failed component (optional)",
+                    "dir": "ltr",
+                    "width": 182.09827781825203,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 636.5953408925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 636.5953408925,
+                    "str": "Reason for Claim Rejection:",
+                    "dir": "ltr",
+                    "width": 136.85168449945792,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 651.1416008924999,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 651.1416008924999,
+                    "str": "Upon review of the submitted documentation and inspection of the failed component, it has",
+                    "dir": "ltr",
+                    "width": 441.18350932499993,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 665.6878708925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 665.6878708925,
+                    "str": "been determined that the alternator failure was due to external damage caused by a loose",
+                    "dir": "ltr",
+                    "width": 437.528820804038,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 680.2341308924999,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 680.2341308924999,
+                    "str": "battery cable. This type of damage is not covered under the terms of the manufacturer's",
+                    "dir": "ltr",
+                    "width": 426.1336504499999,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 694.7803908925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 694.7803908925,
+                    "str": "warranty, which specifically excludes failures caused by improper installation, maintenance, or",
+                    "dir": "ltr",
+                    "width": 456.1885593432519,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 709.3266608925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 709.3266608925,
+                    "str": "external factors.",
+                    "dir": "ltr",
+                    "width": 78.20342674945799,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                }
+            ]
+        },
+        {
+            "pageInfo": {
+                "num": 2,
+                "scale": 1,
+                "rotation": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "width": 612,
+                "height": 792
+            },
+            "links": [],
+            "content": [
+                {
+                    "x": 72,
+                    "y": 82.31787089249997,
+                    "str": "Explanation:",
+                    "dir": "ltr",
+                    "width": 60.50214012445802,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 96.86413589249992,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 96.86413589249992,
+                    "str": "The manufacturer's warranty covers defects in materials and workmanship under normal use",
+                    "dir": "ltr",
+                    "width": 450.5391254790381,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 111.41039989249998,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 111.41039989249998,
+                    "str": "and service. Damage resulting from external factors like a loose battery cable is considered",
+                    "dir": "ltr",
+                    "width": 443.57239145403776,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 125.95666489249993,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 125.95666489249993,
+                    "str": "consequential damage and falls outside the scope of the warranty.",
+                    "dir": "ltr",
+                    "width": 321.8290147994579,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 140.5029298925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 140.5029298925,
+                    "str": "Claimant Options:",
+                    "dir": "ltr",
+                    "width": 87.36537147445809,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 155.04919389249994,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 155.04919389249994,
+                    "str": "While this claim has been rejected, the claimant may wish to contact their insurance company to",
+                    "dir": "ltr",
+                    "width": 466.78051265403803,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 169.5954588925,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 169.5954588925,
+                    "str": "determine if coverage is available under their specific policy.",
+                    "dir": "ltr",
+                    "width": 291.8473854494579,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 184.14172089249996,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 184.14172089249996,
+                    "str": "Authorized Signature:",
+                    "dir": "ltr",
+                    "width": 105.71609914945803,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 213.23425089249997,
+                    "str": "",
+                    "dir": "ltr",
+                    "width": 0,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                },
+                {
+                    "x": 72,
+                    "y": 213.23425089249997,
+                    "str": "Date: ________________________",
+                    "dir": "ltr",
+                    "width": 176.05109817903815,
+                    "height": 11.00000025,
+                    "fontName": "g_d0_f1"
+                }
+            ]
+        }
+    ]
+}
