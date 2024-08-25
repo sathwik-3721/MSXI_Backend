@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 const app = express();
 app.use(express.json()); // To parse JSON bodies
 
-const apiKey = "AIzaSyCn6QoGARxGXBHq6dYGWY90OzsRaQAChps"
+const apiKey = "API_KEY"
 
 // Initialize GoogleGenerativeAI with your API key
 const genAI = new GoogleGenerativeAI(apiKey);
