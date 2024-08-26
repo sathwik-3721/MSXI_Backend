@@ -18,7 +18,7 @@ app.use(cors());
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
-const apiKey = "AIzaSyDEXP0cvsGmT57Y8SQRCjLUChYC8_jeqHc"; // Make sure to set this in your .env file
+const apiKey = "GEMINI_API_KEY"; // Make sure to set this in your .env file
 
 // Initialize GoogleGenerativeAI with your API key
 const genAI = new GoogleGenerativeAI(apiKey);
